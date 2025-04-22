@@ -1,0 +1,12 @@
+
+---
+
+## ✅ Example: `.gitignore`
+
+```gitignore
+__pycache__/
+*.zip
+*.pyc
+*.log
+wordlists/*
+!wordlists/example.txt
